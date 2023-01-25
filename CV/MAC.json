@@ -1,0 +1,197 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Tzivi",
+      "surnames": "Gelstein",
+      "title": "React developer. Student at Platzi. Frontend technologies. Critical thinking. Focused on a performant user experience.",
+      "description": "As a self-taught web development student with two years of experience and a focus on the MERN stack, I am a quick learner and thrive in collaborative environments. I am passionate about learning new things and working in high-performance teams. I am dedicated to professional growth and strive to give my best every day.",
+      "avatar": {
+        "alt": "IMG_20210305_122646_065.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/08c11d35-6de1-4abb-99ec-5bcb0085f33c_img_20210305_122646_.jpg"
+      },
+      "location": {
+        "country": "Argentina",
+        "region": "Buenos Aires",
+        "municipality": "Buenos Aires",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/tzivigelstein"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "React/Node Developer",
+            "startDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "## Work Experience\n- **Position:** React/Node Developer\n\n## Responsibilities\n- **Backend development:** Worked on unit and E2E testing\n- **API development:** Collaborated with the front-end team to develop features for the project's API\n- **Manual testing:** Manually tested the application to improve user experience and detect performance and accessibility issues\n\n## Accomplishments\n- **Improved efficiency:** Detected and addressed performance issues that led to a more efficient application\n- **Enhanced accessibility:** Detected and addressed accessibility issues that improved the user's confidence in the product."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Git and GitHub Professional Course",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "- Keep a Version Control in your Projects with Git\n- Work in Teams Collaboratively\n- Using Custom Domains with GitHub Pages\n- Install Git on your operating system",
+          "URL": "https://platzi.com/p/tzivigelstein/curso/1557-git-github/diploma/detalle/",
+          "image": {
+            "alt": "diploma-git-github_page-0001.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/25/dc6cd3b7-15ce-41d8-a530-55efbabc6d13_diploma-git-github_p.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/tzivigelstein"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
