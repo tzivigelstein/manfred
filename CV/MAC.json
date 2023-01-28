@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Argentina",
         "region": "Buenos Aires",
-        "municipality": "Buenos Aires",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Buenos Aires"
       }
     },
     "relevantLinks": [
@@ -77,12 +76,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -160,6 +157,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "EF SET English Certificate 75/100 (C2 Proficient)",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "EF Standard English Test (EF SET)",
+          "description": "The achieved English level is 75/100 on the EF SET score scale and C2 Proficient according to the Common European Framework of Reference (CEFR). The EF SET score is calculated as an average of the reading and listening scores.",
+          "URL": "https://www.efset.org/cert/TmYxdQ",
+          "image": {
+            "alt": "EF SET Certificate_page-0001.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/af10721c-2169-4a84-b311-416739176d33_ef-set-certificate_p.jpg"
+          }
+        }
       }
     ]
   },
@@ -191,7 +203,6 @@
         "Backend Developer",
         "Frontend Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
