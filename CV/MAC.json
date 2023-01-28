@@ -106,25 +106,13 @@
       },
       {
         "skill": {
-          "name": "React Native",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "React",
           "type": "technology"
         }
       },
@@ -136,7 +124,25 @@
       },
       {
         "skill": {
-          "name": "React",
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },
