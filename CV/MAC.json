@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Argentina",
         "region": "Buenos Aires",
-        "municipality": "Buenos Aires",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Buenos Aires"
       }
     },
     "relevantLinks": [
@@ -89,12 +88,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -193,6 +190,17 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/af10721c-2169-4a84-b311-416739176d33_ef-set-certificate_p.jpg"
           }
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Highschool, Electronic Technician",
+        "startDate": "2016-03-01",
+        "finishDate": "2021-12-01",
+        "institution": {
+          "name": "Escuela Técnica 17 D E 13 Reg VII \"Brig. Gral. Cornelio Saavedra\"​",
+          "description": "I'm a graduated high school electronic technician. I've gathered knowledge in the tech field from the age of 14, having created relatively complex electronics circuits with programmable and non-programmable chips."
+        }
       }
     ]
   },
@@ -224,7 +232,6 @@
         "Backend Developer",
         "Frontend Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
