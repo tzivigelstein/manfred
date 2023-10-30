@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,24 +11,24 @@
       "title": "React developer. Student at Platzi. Frontend technologies. Critical thinking. Focused on a performant user experience.",
       "description": "I'm React Developer with a passion for creating performant user experiences. With experience in backend development, unit and E2E testing, and manual testing, I collaborate with frontend teams to develop features for the project's API. My technical skills include Docker, React, Node, CSS, Bash, PostgreSQL, and MongoDB. Let's connect and collaborate on creating engaging and performant web applications!",
       "avatar": {
-        "alt": "IMG_20210305_122646_065.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/08c11d35-6de1-4abb-99ec-5bcb0085f33c_img_20210305_122646_.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/08c11d35-6de1-4abb-99ec-5bcb0085f33c_img_20210305_122646_.jpg",
+        "alt": "IMG_20210305_122646_065.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJvQz5TjvKvJURh47oiC6Bs6A)",
         "country": "Argentina",
         "region": "Buenos Aires",
-        "municipality": "Buenos Aires",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Buenos Aires"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://www.github.com/tzivigelstein"
-      },
-      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/tzivigelstein"
+      },
+      {
+        "type": "github",
+        "URL": "https://www.github.com/tzivigelstein"
       },
       {
         "type": "twitter",
@@ -89,18 +89,48 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -115,39 +145,24 @@
           "name": "React Native",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NextJS",
-          "type": "technology"
-        }
       }
     ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "EF SET English Certificate 75/100 (C2 Proficient)",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "EF Standard English Test (EF SET)",
+          "description": "The achieved English level is 75/100 on the EF SET score scale and C2 Proficient according to the Common European Framework of Reference (CEFR). The EF SET score is calculated as an average of the reading and listening scores.",
+          "URL": "https://www.efset.org/cert/TmYxdQ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/af10721c-2169-4a84-b311-416739176d33_ef-set-certificate_p.jpg",
+            "alt": "EF SET Certificate_page-0001.jpg"
+          }
+        }
+      },
       {
         "studyType": "certification",
         "degreeAchieved": false,
@@ -158,8 +173,8 @@
           "description": "- Keep a Version Control in your Projects with Git\n- Work in Teams Collaboratively\n- Using Custom Domains with GitHub Pages\n- Install Git on your operating system",
           "URL": "https://platzi.com/p/tzivigelstein/curso/1557-git-github/diploma/detalle/",
           "image": {
-            "alt": "diploma-git-github_page-0001.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/25/dc6cd3b7-15ce-41d8-a530-55efbabc6d13_diploma-git-github_p.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/25/dc6cd3b7-15ce-41d8-a530-55efbabc6d13_diploma-git-github_p.jpg",
+            "alt": "diploma-git-github_page-0001.jpg"
           }
         },
         "linkedCompetences": [
@@ -174,29 +189,34 @@
         ]
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "EF SET English Certificate 75/100 (C2 Proficient)",
-        "startDate": "2023-01-01",
-        "institution": {
-          "name": "EF Standard English Test (EF SET)",
-          "description": "The achieved English level is 75/100 on the EF SET score scale and C2 Proficient according to the Common European Framework of Reference (CEFR). The EF SET score is calculated as an average of the reading and listening scores.",
-          "URL": "https://www.efset.org/cert/TmYxdQ",
-          "image": {
-            "alt": "EF SET Certificate_page-0001.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/28/af10721c-2169-4a84-b311-416739176d33_ef-set-certificate_p.jpg"
-          }
-        }
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Highschool, Electronic Technician",
         "startDate": "2016-03-01",
-        "finishDate": "2021-12-01",
         "institution": {
           "name": "Escuela Técnica 17 D E 13 Reg VII \"Brig. Gral. Cornelio Saavedra\"​",
           "description": "I'm a graduated high school electronic technician. I've gathered knowledge in the tech field from the age of 14, having created relatively complex electronics circuits with programmable and non-programmable chips."
+        },
+        "finishDate": "2021-12-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistance to frustration",
+          "type": "practice"
         }
       }
     ]
@@ -205,8 +225,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/tzivigelstein"
+          "URL": "https://www.linkedin.com/in/tzivigelstein",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://www.github.com/tzivigelstein",
+          "type": "github"
+        },
+        {
+          "URL": "https://www.twitter.com/tzivigelstein",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "gelsteintzivisantiago@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "1169708476",
+          "countryCode": "+54"
         }
       ]
     },
@@ -217,7 +254,7 @@
           "type": "technology"
         },
         {
-          "name": "Firebase",
+          "name": "Google Firebase",
           "type": "technology"
         },
         {
@@ -231,5 +268,9 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I'd love to work in a place where I'm constantly challenged and able to learn new skills. A job where I'm able to make a positive impact on the world and the people around me would be ideal. A good work-life balance is also important to me, as well as a supportive and collaborative team environment. Additionally, the opportunity for growth and advancement within the company would be a plus.",
+    "goodPractices": "- I'm a note taker\n- I organize my work in the most efficient way possible\n- I value punctuality and make it a priority to be on time"
   }
 }
